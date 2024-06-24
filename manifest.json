@@ -1,6 +1,6 @@
 {
-  "short_name": "tiiker1.dev",
-  "name": "tiiker1 developer site",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
