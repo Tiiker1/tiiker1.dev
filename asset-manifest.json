@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tiiker1.dev/Home/static/css/main.b6a650e0.css",
-    "main.js": "/tiiker1.dev/Home/static/js/main.acb8854e.js",
-    "static/js/453.ad6eb26e.chunk.js": "/tiiker1.dev/Home/static/js/453.ad6eb26e.chunk.js",
-    "index.html": "/tiiker1.dev/Home/index.html",
-    "main.b6a650e0.css.map": "/tiiker1.dev/Home/static/css/main.b6a650e0.css.map",
-    "main.acb8854e.js.map": "/tiiker1.dev/Home/static/js/main.acb8854e.js.map",
-    "453.ad6eb26e.chunk.js.map": "/tiiker1.dev/Home/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/tiiker1.dev/static/css/main.b6a650e0.css",
+    "main.js": "/tiiker1.dev/static/js/main.fb7734d1.js",
+    "static/js/453.ad6eb26e.chunk.js": "/tiiker1.dev/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/tiiker1.dev/index.html",
+    "main.b6a650e0.css.map": "/tiiker1.dev/static/css/main.b6a650e0.css.map",
+    "main.fb7734d1.js.map": "/tiiker1.dev/static/js/main.fb7734d1.js.map",
+    "453.ad6eb26e.chunk.js.map": "/tiiker1.dev/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6a650e0.css",
-    "static/js/main.acb8854e.js"
+    "static/js/main.fb7734d1.js"
   ]
 }
