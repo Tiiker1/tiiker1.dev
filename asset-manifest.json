@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/tiiker1.dev/static/css/main.b13c5c8d.css",
-    "main.js": "/tiiker1.dev/static/js/main.d6fb2f36.js",
-    "static/js/453.ad6eb26e.chunk.js": "/tiiker1.dev/static/js/453.ad6eb26e.chunk.js",
+    "main.css": "/tiiker1.dev/static/css/main.fee2c278.css",
+    "main.js": "/tiiker1.dev/static/js/main.14e64901.js",
+    "static/js/213.4e9e9b75.chunk.js": "/tiiker1.dev/static/js/213.4e9e9b75.chunk.js",
+    "static/js/732.20f9b7de.chunk.js": "/tiiker1.dev/static/js/732.20f9b7de.chunk.js",
+    "static/js/453.99dcf01f.chunk.js": "/tiiker1.dev/static/js/453.99dcf01f.chunk.js",
     "index.html": "/tiiker1.dev/index.html",
-    "main.b13c5c8d.css.map": "/tiiker1.dev/static/css/main.b13c5c8d.css.map",
-    "main.d6fb2f36.js.map": "/tiiker1.dev/static/js/main.d6fb2f36.js.map",
-    "453.ad6eb26e.chunk.js.map": "/tiiker1.dev/static/js/453.ad6eb26e.chunk.js.map"
+    "main.fee2c278.css.map": "/tiiker1.dev/static/css/main.fee2c278.css.map",
+    "main.14e64901.js.map": "/tiiker1.dev/static/js/main.14e64901.js.map",
+    "213.4e9e9b75.chunk.js.map": "/tiiker1.dev/static/js/213.4e9e9b75.chunk.js.map",
+    "732.20f9b7de.chunk.js.map": "/tiiker1.dev/static/js/732.20f9b7de.chunk.js.map",
+    "453.99dcf01f.chunk.js.map": "/tiiker1.dev/static/js/453.99dcf01f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b13c5c8d.css",
-    "static/js/main.d6fb2f36.js"
+    "static/css/main.fee2c278.css",
+    "static/js/main.14e64901.js"
   ]
 }
